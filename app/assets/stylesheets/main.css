@@ -7,7 +7,7 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-#wrapper{
+#wrapper {
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%;
@@ -22,7 +22,7 @@ img {
 }
 
 h3 {
-  margin: 0 0 lem;
+  margin: 0 0 0;
 }
 
 /***********************************************
@@ -107,7 +107,7 @@ PAGE: PORTFOLIO
 
 #gallery {
   margin: 0;
-  padding 0;
+  padding: 0;
   list-style: none;
 }
 
